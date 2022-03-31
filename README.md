@@ -22,8 +22,8 @@
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## Github Stats :octocat:
+## Github stats :octocat:
 
 <img src="https://github-readme-stats.vercel.app/api?username=YannMartins&show_icons=true&theme=highcontrast&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannMartins&theme=highcontrast&title_color=8E2DE2&text_color=fff)
 
-__________________________________________________ ![guts-berserk](https://user-images.githubusercontent.com/102706324/161000092-4db5eb9b-924e-4efd-ab3c-6ea098cbe416.gif) __________________________________________________
+![190239](https://user-images.githubusercontent.com/102706324/161011304-a40032fa-2042-451d-b29d-c95b45d2ce2c.gif)
