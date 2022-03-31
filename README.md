@@ -12,7 +12,7 @@
 ## About me 🏃
 
 - [x] 👷‍♂️ I’m currently working at Alliance as a trainee focusing in Civil Engineering.
-- [x] 🎓 I’m currently learning both Civil Engineering practices and starting with Computational Engineering.
+- [x] 🎓 I’m currently learning Civil Engineering practices and starting with Computational Engineering.
 - [x] 🍀 I’m looking to collaborate on diverses projects in the future.
 - [x] 📫 How to reach me: yann-martins@hotmail.com
 - [x] 😼 Fun fact: I love games, ~~but I really don't play that much.~~
