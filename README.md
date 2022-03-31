@@ -24,6 +24,6 @@
 
 ## Github stats :octocat:
 
-<img src="https://github-readme-stats.vercel.app/api?username=YannMartins&show_icons=true&theme=highcontrast&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannMartins&theme=highcontrast&title_color=8E2DE2&text_color=fff)
+<img src="https://github-readme-stats.vercel.app/api?username=YannMartins&show_icons=true&theme=highcontrast&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannMartins&theme=highcontrast&title_color=8E2DE2&text_color=fff)
 
 ![190239](https://user-images.githubusercontent.com/102706324/161011304-a40032fa-2042-451d-b29d-c95b45d2ce2c.gif)
