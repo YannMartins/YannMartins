@@ -7,7 +7,8 @@
 
 ## About me 🕵🏾‍♂️
 
-- [x] 🎓 I'm graduating in Systems Analysis and Development.
+- [x] 🎓 I have a degree in Systems Analysis and Development.
+- [x] 🎯 I'm currently pursuing a postgraduate degree in Software Engineering.
 - [x] 🍀 I’m looking to collaborate on diverses projects in the future.
 - [x] 📫 How to reach me: yann-martins@hotmail.com
 - [x] 😼 *Fun fact: experience in the field of Civil Construction as a Civil Engineering intern/trainee.*
