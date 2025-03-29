@@ -20,13 +20,11 @@
 ![Python](https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=)
 ![Java](https://img.shields.io/badge/java-20232A?style=for-the-badge&logo=openjdk&logoColor=f89820)
 ![Spring](https://img.shields.io/badge/spring-20232A?style=for-the-badge&logo=spring&logoColor=)
-![NodeJS](https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=)
 
  * ### Front-end
 ![JavaScript](https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=%)
 ![HTML5](https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5&logoColor=)
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=0af)
-![Angular](https://img.shields.io/badge/angular-20232A?style=for-the-badge&logo=angular&logoColor=dd1b16)
 
  * ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=)
