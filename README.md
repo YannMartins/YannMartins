@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/102706324/161003214-6a810aeb-502b-454c-bbf4-b77c1dd43ca7.gif" alt="animated" />
 </p>
-<h2 align="center">Hello world, I'm Yann!</h2>
+<h1 align="center">Hello world, I'm Yann!</h2>
 
 ### About Me 🕵🏾‍♂️
 
@@ -10,6 +10,8 @@
 - [x] 🍀 I’m looking to collaborate on diverses projects in the future.
 - [x] 📫 How to reach me: www.linkedin.com/in/yannmartins01/ / yann-martins@hotmail.com
 - [x] 😼 *Fun fact: experience in the field of Civil Construction as a Civil Engineering intern/trainee.*
+
+---
 
 ### Skills / Studying 👨🏾‍💻📚
 
@@ -35,6 +37,8 @@
 ![GitHub](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=)
 ![Markdown](https://img.shields.io/badge/markdown-20232A?style=for-the-badge&logo=markdown&logoColor=)
 
+---
+
 ### Contact Me 📩
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20in/yannmartins01-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitee)](https://www.linkedin.com/in/yannmartins01/)
@@ -42,6 +46,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram%20@yannmartins01-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yannmartins01/)
 >
 [![E-mail](https://img.shields.io/badge/email%20yann--martins@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:yann-martins@hotmail.com)
+
+---
 
 ### GitHub Stats :octocat:
 
