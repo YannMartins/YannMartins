@@ -6,7 +6,7 @@
 ### About Me 🕵🏾‍♂️
 
 - [x] 🎓 I have a degree in Systems Analysis and Development.
-- [x] 🎯 I'm currently pursuing a postgraduate degree in Software Engineering.
+- [x] 🎯 Postgraduate in Software Engineering.
 - [x] 🍀 I’m looking to collaborate on diverses projects in the future.
 - [x] 📫 How to reach me: www.linkedin.com/in/yannmartins01/ / yann-martins@hotmail.com
 - [x] 😼 *Fun fact: experience in the field of Civil Construction as a Civil Engineering intern/trainee.*
